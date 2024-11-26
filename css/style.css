@@ -15,27 +15,138 @@
     font-weight: 400;
     font-style: normal;
   }
+  .boxx{
+    background-color: #FFFFFF;
+    border: 3px solid green;
+    width: 750px;
+    height: 750px;
+    box-sizing: border-box;
+    margin-left: 20%;
+    margin-top: 7%;
+}
 
-  #lightblue{
+ .box1{
     background-color:#47ADF1;
     border-radius: 10%;
     width:80px; 
     height:40px; 
     color: white;
     text-align: center;
-    margin-top: 5%;
-    margin-left: 20%;
+    margin-top: 15%;
+   margin-left:20%;
+    display: inline;
+    
 
 }
 
-#white{
-    background-color:rgba(255, 255, 255, 0.767);
-    color: gray;
+.box2{
+    background-color:rgba(75, 73, 73, 0.507);
+    color: white;
     border-radius: 10%;
     width:80px; 
     height:40px; 
     text-align: center;
+    display: inline;
    
     
  
+}
+#green{
+    box-sizing: border-box;
+    color: green;
+    border-color: green;
+    border-radius: 20px;
+    display: inline-block;
+    
+}
+
+
+
+
+
+.space{
+    margin-top: 5%;
+}
+
+
+
+.box4{
+    background-color:#47ADF1;
+    border-radius: 10%;
+    width:80px; 
+    height:40px; 
+    color: white;
+    text-align: center;
+    margin-top: 15%;
+   
+    display: inline;
+}
+
+.box5{
+    background-color:#9B71E4;
+    border-radius: 10%;
+    width:80px; 
+    height:40px; 
+    color: white;
+    text-align: center;
+    margin-top: 15%;
+   
+    display: inline;
+}
+
+#red{
+    box-sizing: border-box;
+    color: red;
+    border-color: red;
+    border-radius: 20px;
+    display: inline-block;
+}
+.box6{
+    background-color:#61BEA5;
+    border-radius: 10%;
+    width:80px; 
+    height:40px; 
+    color: white;
+    text-align: center;
+    margin-top: 15%;
+    display: inline;
+}
+
+.box7{
+    background-color:#F29D33;
+    border-radius: 10%;
+    width:80px; 
+    height:40px; 
+    color: white;
+    text-align: center;
+    margin-top: 15%;
+    display: inline;
+}
+.box8{
+    background-color:#D863A0;
+    border-radius: 10%;
+    width:80px; 
+    height:40px; 
+    color: white;
+    text-align: center;
+    margin-top: 15%;
+    display: inline;
+}
+
+.box9{
+    background-color:#B0C926;
+    border-radius: 10%;
+    width:80px; 
+    height:40px; 
+    color: white;
+    text-align: center;
+    margin-top: 15%;
+    display: inline;
+}
+
+
+  body{
+    font-size: 25px;
+    
+
 }
